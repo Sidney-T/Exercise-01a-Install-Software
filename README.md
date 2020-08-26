@@ -30,6 +30,6 @@ Sidney Tooley
 143222
 
 ## My github username is:
-Sidney-
+Sidney-Tea
 
 ## I have installed the software on my computer as a part of the exercise
